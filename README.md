@@ -1,6 +1,6 @@
 My Name Is Nima 
 
-This is my FIst Project HTML - CSS
+This is my  Project HTML - CSS
 
 Table Practice HTML
 
